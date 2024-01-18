@@ -1,8 +1,6 @@
 //
 //  AppDelegate.swift
 //  Xylophone
-//
-//
 
 import UIKit
 
